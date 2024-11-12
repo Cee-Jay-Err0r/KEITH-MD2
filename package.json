@@ -96,7 +96,7 @@
  "ytdl-core": "npm:@distube/ytdl-core",
    "yt-search": "^2.10.4", 
 "youtube-yts": "^2.0.0",
-"node-youtube-music": "^0.8.3",
+"node-youtube-music": "^0.10.3",
 "node-id3": "^0.2.6"
             
   },
